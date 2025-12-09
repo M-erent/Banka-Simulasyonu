@@ -8,8 +8,8 @@ Bu proje, Java kullanılarak geliştirilmiş konsol tabanlı bir banka uygulamas
 Kullanıcılar para yatırma, para çekme ve bakiye sorgulama işlemlerini gerçekleştirebilir.
 
 Dosya İçeriği:
-- src/hafta10/BankAccount.java: Hesap işlemlerini ve verilerini tutan sınıf.
-- src/hafta10/Main.java: Uygulamanın çalıştırıldığı ve menünün bulunduğu sınıf.
+- src/yeni_paket/BankAccount.java: Hesap işlemlerini ve verilerini tutan sınıf.
+- src/yeni_paket/Main.java: Uygulamanın çalıştırıldığı ve menünün bulunduğu sınıf.
 
 Nasıl Çalıştırılır:
 1. Proje bir Java IDE'sinde (IntelliJ, Eclipse vb.) açılır.
